@@ -1,4 +1,4 @@
-Scapegoat
+SMSAPI
 =========
 
 Client http://www.smsapi.pl/
