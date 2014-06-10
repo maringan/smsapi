@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "node-rest-client": "0.8.10",
-    "config": "0.4.36"
+    "config": "0.4.36",
+    "underscore": "1.6.0"
   },
   "devDependencies": {
     "mocha": "~1.20.1",
