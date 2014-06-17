@@ -1,6 +1,6 @@
 {
   "name": "smsapi",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SmsApi client",
   "main": "index.js",
   "scripts": {
