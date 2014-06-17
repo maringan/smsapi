@@ -21,7 +21,6 @@
   "dependencies": {
     "deepmerge": "0.2.7",
     "node-rest-client": "1.0.0",
-    "promise-http-client": "^0.1.0",
     "underscore": "1.6.0"
   },
   "devDependencies": {
