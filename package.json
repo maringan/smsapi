@@ -19,12 +19,14 @@
     "url": "https://github.com/maringan/smsapi/issues"
   },
   "dependencies": {
+    "deepmerge": "0.2.7",
     "node-rest-client": "1.0.0",
-    "underscore": "1.6.0",
-    "deepmerge": "0.2.7"
+    "promise-http-client": "^0.1.0",
+    "underscore": "1.6.0"
   },
   "devDependencies": {
     "mocha": "~1.20.1",
+    "nock": "^0.36.2",
     "chai": "~1.9.1"
   }
 }
